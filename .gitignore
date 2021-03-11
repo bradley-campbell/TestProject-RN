@@ -63,3 +63,6 @@ buck-out/
 # Expo
 .expo/*
 web-build/
+ios/Podfile.lock
+package-lock.json
+ios/TestProject.xcworkspace/
